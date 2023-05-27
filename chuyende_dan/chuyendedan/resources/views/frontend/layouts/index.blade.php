@@ -67,6 +67,7 @@
                     <button class="w-full py-3 text-center text-white focus:bg-red-500">
                         Lau
                     </button>
+                    
                 </li>
                 <li>
                     <button class="w-full py-3 text-center text-white focus:bg-red-500">
@@ -87,6 +88,7 @@
                     <button class="w-full py-3 text-center text-white focus:bg-red-500">
                         Lau
                     </button>
+                    <img src="../total_image/image/nhunglau/dau-hu-chien.jpg" alt="">
                 </li>
                 <li>
                     <button class="w-full py-3 text-center text-white focus:bg-red-500">
@@ -112,8 +114,8 @@
         </div>
         <div class="content relative bg-stone-800 w-10/12 h-screen overflow-auto flex flex-row flex-wrap">
             <section class="w-1/2 h-1/3 flex bg-gray-200 pb-1">
-                <div class="wrapper w-4/6 h-full bg-blue-500">
-                    <img src="art.jpg" class="w-full h-full object-cover" alt="" />
+                <div class="wrapper w-4/6 h-full">
+                    <img src="../total_image/image/nhunglau/rau-cai.jpg" class="w-full h-full object-cover" alt="" />
                 </div>
                 <div class="flex flex-col h-full p-2 w-2/6 justify-between bg-white">
                     <div>
