@@ -29,7 +29,7 @@
                                             <div class="section text-center">
                                                 <h4 class="mb-4 pb-3">Log In</h4>
                                                 <div class="form-group">
-                                                    <input type="email" class="form-style" placeholder="Email"
+                                                    <input class="form-style" placeholder="Email"
                                                     id="staff_email" name="staff_email">
                                                     <i class="input-icon uil uil-at"></i>
                                                 </div>

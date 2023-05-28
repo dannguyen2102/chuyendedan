@@ -32,7 +32,6 @@ Route::middleware('auth')->group(function () {
 Route::controller(FrontEndController::class)->group(function () {
     Route::get('/frontend/index', 'Index')->name('index');
     Route::match(['get', 'post'], 'frontend/signup', 'Login_Register')->name('frontend_signup');
-    // Route::match(['get', 'post'], 'frontend/register', 'Register')->name('frontend_register');
-    // Route::get('/admin/edit-carts', 'EditCarts')->name('editcarts');
+    Route::post('/frondend/index', 'AddtoCart')->name('addtocart');
 });
 require __DIR__.'/auth.php';
